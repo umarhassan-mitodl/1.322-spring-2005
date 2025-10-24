@@ -6,8 +6,6 @@ description: This file includes introduction to the content of the course which 
 file: /courses/1-322-soil-behavior-spring-2005/1292a09c0f1ccc89ccbc0f7e9167a5b0_01partai.pdf
 file_size: 319185
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

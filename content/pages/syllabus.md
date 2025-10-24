@@ -3,8 +3,6 @@ content_type: page
 description: 'This section provides information on course description, conduct of
   subjects, lecture topics and comparison of laboratory and in situ testing: complimentary,
   not competing.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
